@@ -28,6 +28,13 @@
             border: 1px solid black;
             border-radius: 5px;
         }
+        .container {
+            display: flex;
+            align-items: center;
+        }
+        nav {
+            margin: 0 10px;
+        }
     </style>
 </head>
 <body>
@@ -35,10 +42,16 @@
         <header>
             <h1>RSS-CHANNELS [Carlos C.D.]</h1>
         </header>
-        <nav>
-            <a href="noticias.xml">Noticias.xml</a>
-            <a href="ofertas.xml">Ofertas.xml</a>
-        </nav>
+        <div class="container">
+            <img src="icono.rss.png" alt="rss-logo" width="80px">
+            <nav>
+                <a href="noticias.xml">Noticias.xml</a>
+            </nav>
+            <img src="icono.rss.png" alt="rss-logo" width="80px">
+            <nav>
+                <a href="ofertas.xml">Ofertas.xml</a>
+            </nav>
+        </div>
     </div>
 </body>
 </html>
