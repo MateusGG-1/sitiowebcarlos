@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<noticias>
-    <noticia-1>
-        <titulo>El incidente de San Telmo trae al recuerdo el atropello mortal de la estación de Puerto del Rosario</titulo>
+<rss version="2.0">
+<channel>
+    <item>
+        <title>El incidente de San Telmo trae al recuerdo el atropello mortal de la estación de Puerto del Rosario</title>
         <link>https://mateusgg-1.github.io/sitiowebcarlos/rss/noticias.html</link>
-        <descripcion>El incidente de este miércoles en la estación de guaguas de San Telmo en Las Palmas de Gran Canaria, donde dos 
+        <description>El incidente de este miércoles en la estación de guaguas de San Telmo en Las Palmas de Gran Canaria, donde dos 
                 personas resultaron heridas -un hombre en estado grave y una mujer en estado crítico-, al estrellarse una 
                 guagua contra un muro cuando recogía pasaje, trae al recuerdo el atropello mortal de 2023 en la estación de 
                 guaguas de Puerto del Rosario, en Fuerteventura, cuando un accidente similar se saldó con la muerte de una 
-                mujer de 70 años. En aquella ocasión, la guagua se precipitó hacia adelante en vez de salir marcha atrás.</descripcion>
-        <foto>https://s1.ppllstatics.com/canarias7/www/multimedia/2024/05/15/san-telmo2-ku0E-U220145424087kqB-1200x840@Canarias7.jpg</foto>
-    </noticia-1>
-    <noticia-2>
-        <titulo>Un pescador desaparecido y otro herido tras sufrir un golpe de mar en La Aldea de San Nicolás</titulo>
+                mujer de 70 años. En aquella ocasión, la guagua se precipitó hacia adelante en vez de salir marcha atrás.</description>
+        <photo>https://s1.ppllstatics.com/canarias7/www/multimedia/2024/05/15/san-telmo2-ku0E-U220145424087kqB-1200x840@Canarias7.jpg</photo>
+    </item>
+    <item>
+        <title>Un pescador desaparecido y otro herido tras sufrir un golpe de mar en La Aldea de San Nicolás</title>
         <link>https://mateusgg-1.github.io/sitiowebcarlos/rss/noticias.html</link>
-        <descripcion>Un hombre se encuentra desaparecido al sufrir un golpe de mar mientras pescaba en el muelle de La Aldea de 
+        <description>Un hombre se encuentra desaparecido al sufrir un golpe de mar mientras pescaba en el muelle de La Aldea de 
                 San Nicolás, Gran Canaria. Según fuentes del Centro Coordinador de Emergencias del 112 del Gobierno de Canarias, 
                 el pescador desaparecido está siendo buscado por mar por los buzos de la Guardia Civil y por aire con un helicóptero 
                 Helimer 202.Un hombre se encuentra desaparecido al sufrir un golpe de mar mientras pescaba en el muelle de La Aldea 
                 de San Nicolás, Gran Canaria. Según fuentes del Centro Coordinador de Emergencias del 112 del Gobierno de Canarias, 
                 el pescador desaparecido está siendo buscado por mar por los buzos de la Guardia Civil y por aire con un helicóptero 
-                Helimer 202.</descripcion>
-        <foto>https://s1.ppllstatics.com/canarias7/www/multimedia/2024/05/16/lucia-k3c--1920x1080@Canarias7.jpg</foto>
-    </noticia-2>
-    <noticia-3>
-        <titulo>La pequeña Nax comienza la escuela</titulo>
+                Helimer 202.</description>
+        <photo>https://s1.ppllstatics.com/canarias7/www/multimedia/2024/05/16/lucia-k3c--1920x1080@Canarias7.jpg</photo>
+    </item>
+    <item>
+        <title>La pequeña Nax comienza la escuela</title>
         <link>https://mateusgg-1.github.io/sitiowebcarlos/rss/noticias.html</link>
-        <descripcion>Nax ha recibido en la mañana de este jueves una animada clase con la Policía Local de Las Palmas de Gran Canaria. 
+        <description>Nax ha recibido en la mañana de este jueves una animada clase con la Policía Local de Las Palmas de Gran Canaria. 
                 Esta unidad policial ha publicado en su cuenta X un video de «las primeras clases» de la perra, que con tan solo 
-                dos meses y medio inicia su proceso de adiestramiento.</descripcion>
-        <foto>https://s2.ppllstatics.com/canarias7/www/multimedia/2024/05/16/nax-poli-kDSC--1920x1080@Canarias7.jpg</foto>
-    </noticia-3>
-</noticias>
+                dos meses y medio inicia su proceso de adiestramiento.</description>
+        <photo>https://s2.ppllstatics.com/canarias7/www/multimedia/2024/05/16/nax-poli-kDSC--1920x1080@Canarias7.jpg</photo>
+    </item>
+</channel>
+</rss>
